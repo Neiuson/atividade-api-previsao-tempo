@@ -1,0 +1,12 @@
+function api(){
+
+    return {
+        "APPID":"2d3a673f379a2eafcf0ca5e3086c93d1",
+        "BASE_URL":"api.openweathermap.org/data/2.5/forecast",
+        "PROTOCOL":"https",
+        "UNITS":"metric",
+        "LANGUAGE":"pt_br"
+    }
+}
+
+export default api
